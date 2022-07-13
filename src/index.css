@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+  .rmsc {
+    --rmsc-border: #6B7280 !important;
+    --rmsc-p: 16px; /* Padding */
+    --rmsc-w: 200px !important; /* Width */
+    --rmsc-h: 40px !important; /* Height */
+  }
+
+  .rmsc .dropdown-container {
+    width: var(--rmsc-w);
+    height: var(--rmsc-h);
+    border-radius: 0px !important;
+    border: 1px solid var(--rmsc-border) !important;
+  }
+
+  .rmsc .dropdown-content {
+    z-index: 999 !important;
+  }
+
+
+
+
+
