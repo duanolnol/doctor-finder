@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doctor-finder/static/css/main.a23629df.css",
+    "main.js": "/doctor-finder/static/js/main.4e5d86e6.js",
+    "static/js/787.4133ee52.chunk.js": "/doctor-finder/static/js/787.4133ee52.chunk.js",
+    "index.html": "/doctor-finder/index.html",
+    "main.a23629df.css.map": "/doctor-finder/static/css/main.a23629df.css.map",
+    "main.4e5d86e6.js.map": "/doctor-finder/static/js/main.4e5d86e6.js.map",
+    "787.4133ee52.chunk.js.map": "/doctor-finder/static/js/787.4133ee52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23629df.css",
+    "static/js/main.4e5d86e6.js"
+  ]
+}
